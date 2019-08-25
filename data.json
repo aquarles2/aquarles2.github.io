@@ -3,6 +3,7 @@
 	"goals":[
 		{"goal":"To learn about web and mobile development","confidence":9},
 		{"goal":"To keep up with homework and readings","confidence":8},
+		{"goal":"To get enough sleep","confidence":2},
 		{"goal":"To have fun!","confidence":10}
 	]
 }
